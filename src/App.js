@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Title from './Title';
+
 import POPOSList from './POPOSList'
 import Footer from './Footer';
 import './Footer.css';
@@ -15,6 +16,7 @@ function App() {
       </div>
     </div>
   );
+  
 }
 
 export default App;
